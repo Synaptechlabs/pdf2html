@@ -1,5 +1,13 @@
 # pdf2html
 
+[![CI](https://github.com/synaptechlabs/pdf2html/actions/workflows/ci.yml/badge.svg)](https://github.com/synaptechlabs/pdf2html/actions/workflows/ci.yml)
+[![codecov](https://codecov.io/gh/synaptechlabs/pdf2html/branch/main/graph/badge.svg)](https://codecov.io/gh/synaptechlabs/pdf2html)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![PyPI version](https://img.shields.io/pypi/v/pdf2html.svg)](https://pypi.org/project/pdf2html/)
+[![Docker](https://img.shields.io/docker/v/synaptechlabs/pdf2html?sort=semver)](https://hub.docker.com/r/synaptechlabs/pdf2html)
+
+
+
 Convert PDF files to simple, readable HTML using a command-line tool.
 
 ## Features
