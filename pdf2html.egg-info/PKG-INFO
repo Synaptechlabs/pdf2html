@@ -1,0 +1,51 @@
+Metadata-Version: 2.4
+Name: pdf2html
+Version: 0.1.0
+Summary: CLI tool to convert PDFs to simple HTML using pdfminer.
+Author: Your Name
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: pdfminer.six
+Requires-Dist: beautifulsoup4
+Dynamic: license-file
+
+# pdf2html
+
+Convert PDF files to simple, readable HTML using a command-line tool.
+
+## Features
+- Converts single PDFs or entire folders
+- Retains original filenames
+- Simple, semantic HTML output
+- CLI-friendly and pip-installable
+
+## Installation
+### Option 1: Local install
+```bash
+pip install .
+```
+
+### Option 2: pipx (recommended)
+```bash
+pipx install path/to/pdf2html/
+```
+
+## Usage
+Convert a single file:
+```bash
+pdf2html path/to/file.pdf -o output_folder
+```
+
+Convert all PDFs in a folder:
+```bash
+pdf2html path/to/folder -o output_folder
+```
+
+## Requirements
+- Python 3.8+
+- `pdfminer.six`
+- `beautifulsoup4`
+
+## License
+MIT
