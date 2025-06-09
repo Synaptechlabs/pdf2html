@@ -9,3 +9,4 @@ pdf2html.egg-info/dependency_links.txt
 pdf2html.egg-info/entry_points.txt
 pdf2html.egg-info/requires.txt
 pdf2html.egg-info/top_level.txt
+tests/test_dummy.py

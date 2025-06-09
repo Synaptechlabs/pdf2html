@@ -5,6 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PyPI version](https://img.shields.io/pypi/v/pdf2html.svg)](https://pypi.org/project/pdf2html/)
 [![Docker](https://img.shields.io/docker/v/synaptechlabs/pdf2html?sort=semver)](https://hub.docker.com/r/synaptechlabs/pdf2html)
+[![PyPI version](https://badge.fury.io/py/pdf2html.svg)](https://pypi.org/project/pdf2html/)
 
 
 
